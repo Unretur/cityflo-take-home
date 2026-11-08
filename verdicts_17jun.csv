@@ -1,0 +1,8 @@
+trip,route,vehicle,operator,verdict,detail,flag
+TRIP_013,9,V-11,5,HOLD,"at JVLR (seq 6) 07:34, sched 07:35",
+TRIP_014,11,V-06,5,NO_VERDICT,stalled or GPS gap,
+TRIP_015,12,V-10,5,PUSH_LATE 9 min,"at Vikhroli (seq 4) 07:39, sched 07:30",rev C on-time override NOT applied
+TRIP_016,14,V-04,6,NO_VERDICT,last ping 48 min old,
+TRIP_017,17,V-05,5,NO_VERDICT,last ping 17 min old,
+TRIP_018,21,V-03,5,HOLD,"at Kurla (seq 4) 07:41, sched 07:44",
+TRIP_019,21,V-09,7,HOLD,"at Amar Mahal (seq 2) 07:40, sched 07:40","operator 7, excluded from lateness per rev C, shown"
